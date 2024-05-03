@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    username: equipment_store
+    password: equipment_store
+    url: jdbc:mysql://localhost:3306/equipment_store
+      
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  
