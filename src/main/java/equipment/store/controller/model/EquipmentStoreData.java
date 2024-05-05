@@ -1,3 +1,4 @@
+// EquipmentStoreData provides a structured way to represent and transfer data related to the equipment store project
 package equipment.store.controller.model;
 
 import java.util.HashSet;
